@@ -1,6 +1,6 @@
 import 'package:flutter_test/flutter_test.dart';
-import 'package:game_097_screw_puzzle/core/arcade.dart';
-import 'package:game_097_screw_puzzle/core/level_plan.dart';
+import 'package:studio_core/core/arcade.dart';
+import 'package:studio_core/core/level_plan.dart';
 import 'package:game_097_screw_puzzle/game/casual_engine.dart';
 import 'package:game_097_screw_puzzle/game/rules.dart';
 
